@@ -19,6 +19,8 @@ A simple React app to manage tasks with features like add, delete, mark complete
 npm install
 npm start
 
+---
+
 ##  Manual Testing Guide
 
 - Test	Steps	Expected Result
